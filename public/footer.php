@@ -18,13 +18,13 @@
         <div class="container mx-auto py-6">
             <div class="flex flex-col md:flex-row md:justify-between">
                 <div class="mb-4 md:mb-0">
-                    <span class="text-white">Movie Website &copy; <?php echo date('Y'); ?></span>
+                    <span class="ml-4 text-white">Movie Website &copy; <?php echo date('Y'); ?></span>
                 </div>
                 <div>
                     <ul class="flex space-x-4">
                         <li><a href="#" class="text-white hover:text-gray-300">Privacy Policy</a></li>
                         <li><a href="#" class="text-white hover:text-gray-300">Terms of Service</a></li>
-                        <li><a href="#" class="text-white hover:text-gray-300">Contact Us</a></li>
+                        <li><a href="#" class="mr-4 text-white hover:text-gray-300">Contact Us</a></li>
                     </ul>
                 </div>
             </div>

@@ -12,10 +12,10 @@
     <header class="bg-gray-900">
         <nav class="container mx-auto flex items-center justify-between py-4">
             <div>
-                <a href="#" class="text-xl font-bold text-white">Movie Website</a>
+                <a href="#" class="text-xl ml-4 font-bold text-white">Movie Website</a>
             </div>
             <div>
-                <ul class="flex space-x-4">
+                <ul class="flex space-x-6">
                     <li><a href="#" class="text-white hover:text-gray-300">Home</a></li>
                     <li><a href="#" class="text-white hover:text-gray-300">Movies</a></li>
                     <li><a href="#" class="text-white hover:text-gray-300">TV Shows</a></li>
@@ -26,7 +26,7 @@
             <div class="ml-4">
                 <form action="#" method="GET">
                     <input type="text" name="search" class="px-4 py-2 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500" placeholder="Search movies">
-                    <button type="submit" class="ml-2 px-4 py-2 rounded-lg bg-blue-500 text-white">Search</button>
+                    <button type="submit" class="ml-2 mr-4 px-4 py-2 rounded-lg bg-blue-500 text-white">Search</button>
                 </form>
             </div>
         </nav>
